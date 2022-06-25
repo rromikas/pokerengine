@@ -13,7 +13,7 @@
     "express": "^4.16.4",
     "firebase": "^6.1.0",
     "websocket": "^1.0.28",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "async-foreach": "^0.1.3",
     "dotenv": "^8.2.0",
     "thunderbase": "^1.0.4",
