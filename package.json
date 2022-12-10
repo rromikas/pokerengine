@@ -10,7 +10,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "firebase": "^6.1.0",
     "websocket": "^1.0.28",
     "node-fetch": "^2.6.0",
